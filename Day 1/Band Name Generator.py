@@ -7,4 +7,4 @@ pet = input("What is your pet name ?\n")
 #4. Declare output variable to get data from variable city and pet
 output = (city +" "+ pet)
 #5. Print the output variable to get Band Name
-print("Your Band Name could be : " + output)
+print("Your Band Name could be " + output)
