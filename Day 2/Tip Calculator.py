@@ -16,9 +16,9 @@ new_tip = int(tip)
 tip_percent = new_tip / 100
 #Total tip = bills mulitply by tip percent
 total_tip = new_bills * tip_percent
-#Total bills = bils addition by tip
+#Total bills = bils addition by total tip
 total_bills = new_bills + total_tip
-#Bill per person = total bills divide people
+#Bill per person = total bills divide by people
 bill_person = total_bills / new_people
 
 #Total amount round to 2 decimal
