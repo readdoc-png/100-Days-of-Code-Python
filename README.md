@@ -1,5 +1,5 @@
 # 100-Days-of-Code-Python
-This is Python project from 100 Days of Code Python in Udemy by Angela Yu
+This is Python project from 100 Days of Code Python Course in Udemy by Angela Yu
 
 Day 1 - Learn about print function, input function and variable 
 
